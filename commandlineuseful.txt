@@ -1,0 +1,14 @@
+Compressed file ciphertext.zip requires a password told during class.
+You might find it useful the line command
+file
+
+
+NAME
+     file — determine file type
+
+SYNOPSIS
+     file [-bcdEhiklLNnprsSvzZ0] [--apple] [--extension] [--mime-encoding]
+          [--mime-type] [-e testname] [-F separator] [-f namefile]
+          [-m magicfiles] [-P name=value] file ...
+     file -C [-m magicfiles]
+     file [--help]
